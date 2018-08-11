@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/juand/Documentos/Aplicaciones/WS/Colorito/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/juand/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/47c2227a04018af16362bf3b9ec52f0f/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/juand/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/52019cedd2809fb29bdc1e953774b92f/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

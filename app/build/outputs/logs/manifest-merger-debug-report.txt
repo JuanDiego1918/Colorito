@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/52019cedd2809fb29bdc1e953774b92f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/juand/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/39d50add66c19f7732275483fab5c868/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/b004d6a48ed9545cb10eb7f66a01327b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/44a5ed090fbb70ed71ef8be45d57b92f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1820f8fe7de9e4d889651fdaf5f67259/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/dda8019c3d94ec3da9561a745b81f00d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/d2380828a69541ce39ed4b52df959f76/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/71b0be2cb0ba27d05dc67070491a3f3c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/34322bafd8729ab319a606813df135a9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/5e81d6060f03dea56cbd3f815811972a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/47c2227a04018af16362bf3b9ec52f0f/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+		INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/52019cedd2809fb29bdc1e953774b92f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/52019cedd2809fb29bdc1e953774b92f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/juand/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/39d50add66c19f7732275483fab5c868/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/juand/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/39d50add66c19f7732275483fab5c868/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/b004d6a48ed9545cb10eb7f66a01327b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/b004d6a48ed9545cb10eb7f66a01327b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/44a5ed090fbb70ed71ef8be45d57b92f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/44a5ed090fbb70ed71ef8be45d57b92f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1820f8fe7de9e4d889651fdaf5f67259/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1820f8fe7de9e4d889651fdaf5f67259/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/dda8019c3d94ec3da9561a745b81f00d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/dda8019c3d94ec3da9561a745b81f00d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/d2380828a69541ce39ed4b52df959f76/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/d2380828a69541ce39ed4b52df959f76/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/71b0be2cb0ba27d05dc67070491a3f3c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/71b0be2cb0ba27d05dc67070491a3f3c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/34322bafd8729ab319a606813df135a9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/34322bafd8729ab319a606813df135a9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/5e81d6060f03dea56cbd3f815811972a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/5e81d6060f03dea56cbd3f815811972a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/47c2227a04018af16362bf3b9ec52f0f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/47c2227a04018af16362bf3b9ec52f0f/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.juandiego.colorito.MainActivity
+ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/52019cedd2809fb29bdc1e953774b92f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/52019cedd2809fb29bdc1e953774b92f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/juand/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/39d50add66c19f7732275483fab5c868/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/juand/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/39d50add66c19f7732275483fab5c868/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/b004d6a48ed9545cb10eb7f66a01327b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/b004d6a48ed9545cb10eb7f66a01327b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/44a5ed090fbb70ed71ef8be45d57b92f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/44a5ed090fbb70ed71ef8be45d57b92f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1820f8fe7de9e4d889651fdaf5f67259/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1820f8fe7de9e4d889651fdaf5f67259/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/dda8019c3d94ec3da9561a745b81f00d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/dda8019c3d94ec3da9561a745b81f00d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/d2380828a69541ce39ed4b52df959f76/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/d2380828a69541ce39ed4b52df959f76/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/71b0be2cb0ba27d05dc67070491a3f3c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/71b0be2cb0ba27d05dc67070491a3f3c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/34322bafd8729ab319a606813df135a9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/34322bafd8729ab319a606813df135a9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/5e81d6060f03dea56cbd3f815811972a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/5e81d6060f03dea56cbd3f815811972a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/47c2227a04018af16362bf3b9ec52f0f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/47c2227a04018af16362bf3b9ec52f0f/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/52019cedd2809fb29bdc1e953774b92f/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+		INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+		ADDED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+		INJECTED from /home/juand/Documentos/Aplicaciones/WS/Colorito/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/52019cedd2809fb29bdc1e953774b92f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/b004d6a48ed9545cb10eb7f66a01327b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/b004d6a48ed9545cb10eb7f66a01327b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/44a5ed090fbb70ed71ef8be45d57b92f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/44a5ed090fbb70ed71ef8be45d57b92f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1820f8fe7de9e4d889651fdaf5f67259/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/1820f8fe7de9e4d889651fdaf5f67259/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/dda8019c3d94ec3da9561a745b81f00d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/dda8019c3d94ec3da9561a745b81f00d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/d2380828a69541ce39ed4b52df959f76/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/d2380828a69541ce39ed4b52df959f76/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/71b0be2cb0ba27d05dc67070491a3f3c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/71b0be2cb0ba27d05dc67070491a3f3c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/34322bafd8729ab319a606813df135a9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/34322bafd8729ab319a606813df135a9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/5e81d6060f03dea56cbd3f815811972a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/5e81d6060f03dea56cbd3f815811972a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/47c2227a04018af16362bf3b9ec52f0f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/47c2227a04018af16362bf3b9ec52f0f/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/52019cedd2809fb29bdc1e953774b92f/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /home/juand/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/52019cedd2809fb29bdc1e953774b92f/AndroidManifest.xml:27:13-51

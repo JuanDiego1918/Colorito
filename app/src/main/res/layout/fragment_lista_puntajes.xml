@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ListaPuntajes"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/action"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:elevation="30dp"
+        android:orientation="horizontal">
+        <ImageButton
+            android:id="@+id/btnvolver"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/volver"
+            android:src="@drawable/volver" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Mejores Puntajes"
+            android:textSize="35sp"
+            android:textColor="#fff"
+            android:textAlignment="center"
+            android:layout_gravity="center_vertical"/>
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:id="@+id/mejorespuntajes"
+        android:layout_height="match_parent">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+</LinearLayout>
