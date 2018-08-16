@@ -1,4 +1,4 @@
-#Wed Aug 08 08:49:49 COT 2018
-base.0=/home/juand/Documentos/Aplicaciones/WS/Colorito/app/build/intermediates/transforms/dexMerger/debug/0
+#Mon Aug 13 16:32:30 COT 2018
+base.0=/home/juan/AndroidStudioProjects/Colorito/app/build/intermediates/transforms/dexMerger/debug/33
 path.0=classes.dex
 renamed.0=classes.dex

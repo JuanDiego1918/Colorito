@@ -82,17 +82,17 @@ public class ListaPuntajes extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        view=inflater.inflate(R.layout.fragment_lista_puntajes, container, false);
+        view = inflater.inflate(R.layout.fragment_lista_puntajes, container, false);
 
-        recyclerView=view.findViewById(R.id.mejorespuntajes);
+        recyclerView = view.findViewById(R.id.mejorespuntajes);
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
-        volver=view.findViewById(R.id.btnvolver);
+        volver = view.findViewById(R.id.btnvolver);
 
-        conn=new Conexion(getContext(),"bd_puntajes",null,1);
+        conn = new Conexion(getContext(), "bd_puntajes", null, 1);
 
         consulta();
 
-        AdapterPuntaje miAdapterPuntaje=new AdapterPuntaje(listaPuntajes);
+        AdapterPuntaje miAdapterPuntaje = new AdapterPuntaje(listaPuntajes);
         recyclerView.setAdapter(miAdapterPuntaje);
 
         volver.setOnClickListener(new View.OnClickListener() {
@@ -105,21 +105,24 @@ public class ListaPuntajes extends Fragment {
     }
 
     private void consulta() {
-        SQLiteDatabase db=conn.getReadableDatabase();
+        SQLiteDatabase db = conn.getReadableDatabase();
 
-        listaPuntajes=new ArrayList<>();
-        PuntajeVo puntajeVo=null;
+        listaPuntajes = new ArrayList<>();
+        PuntajeVo puntajeVo = null;
 
-        Cursor cursor=db.rawQuery("SELECT * FROM "+Utilidades.NOMBRE_TABLA +"ORDER BY "+Utilidades.CORRECTAS+"DESC",null);
-
-        while (cursor.moveToNext()){
-            puntajeVo=new PuntajeVo();
+        Cursor cursor = db.rawQuery("SELECT * FROM " + Utilidades.NOMBRE_TABLA + "ORDER BY " + Utilidades.CORRECTAS + "DESC", null);
+        int i = 0;
+        while (cursor.moveToNext()) {
+            i++;
+            puntajeVo = new PuntajeVo();
             puntajeVo.setDesplegas(cursor.getString(0));
             puntajeVo.setCorrectas(cursor.getString(1));
             puntajeVo.setIncorrectas(cursor.getString(2));
             puntajeVo.setFallidos(cursor.getString(3));
+            if (i <= 4) {
+                listaPuntajes.add(puntajeVo);
+            }
 
-            listaPuntajes.add(puntajeVo);
         }
     }
 

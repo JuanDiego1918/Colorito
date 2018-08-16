@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/juand/Documentos/Aplicaciones/WS/Colorito/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/home/juan/AndroidStudioProjects/Colorito/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/home/juand/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/52019cedd2809fb29bdc1e953774b92f/res/values-land/values-land.xml",
+                    "source": "/home/juan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/b8b4569bcb5b240478de47b62edf1b49/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

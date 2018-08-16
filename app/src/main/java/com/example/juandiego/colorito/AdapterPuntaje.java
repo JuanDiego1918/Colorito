@@ -32,7 +32,7 @@ public class AdapterPuntaje extends RecyclerView.Adapter<AdapterPuntaje.Puntajes
 
     @Override
     public int getItemCount() {
-        return 4;
+        return listaPuntajes.size();
     }
 
     public class PuntajesViewHolder extends RecyclerView.ViewHolder {

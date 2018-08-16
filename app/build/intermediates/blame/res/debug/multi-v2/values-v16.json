@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/juand/Documentos/Aplicaciones/WS/Colorito/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/home/juan/AndroidStudioProjects/Colorito/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/juand/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/47c2227a04018af16362bf3b9ec52f0f/res/values-v16/values-v16.xml",
+                    "source": "/home/juan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/427a7b066eae378e79e4d85c309da9b5/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/juand/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/52019cedd2809fb29bdc1e953774b92f/res/values-v16/values-v16.xml",
+                    "source": "/home/juan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/b8b4569bcb5b240478de47b62edf1b49/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
